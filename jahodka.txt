@@ -1,3 +1,4 @@
 Toto je jahodka
 Pridavam prvu zmenu
 druha zmena
+skusam git remote
