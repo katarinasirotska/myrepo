@@ -1,6 +1,5 @@
-Zmena collaboration
+Toto je jahodka
 
-Toto NIE je jahodka
-Pridavam prvu zmenu
+druha zmena
 
-skusam git remote
+Ahoj Katka // collaboration
