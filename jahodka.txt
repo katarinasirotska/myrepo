@@ -2,4 +2,4 @@ Toto je jahodka
 
 druha zmena
 
-Ahoj Katka // collaboration
+Ahoj Katka // collaboration - vyrabam konflikt
