@@ -30,4 +30,6 @@ Git je distribuovaný systém riadenia revízií, ktorý vytvoril Linus Torvalds
 ##H2 posledny riadok
 
 
+DO PRODUKCIE S TYM!
+
 
