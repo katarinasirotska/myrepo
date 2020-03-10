@@ -1,0 +1,1 @@
+tha lezenina nema zlozku?
